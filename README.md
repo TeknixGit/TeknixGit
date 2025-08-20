@@ -21,7 +21,7 @@
   <li><img src="https://raw.githubusercontent.com/TeknixGit/TeknixGit/main/emojis/gear.gif" width="20" /> &nbsp; I specialize in <strong>MERN Stack, Angular, Spring Boot, Node.js, and AWS</strong>.</li>
   <li><img src="https://raw.githubusercontent.com/TeknixGit/TeknixGit/main/emojis/cloud.gif" width="20" /> &nbsp; Currently building cloud-native solutions and integrating low-code platforms for enterprise efficiency.</li>
   <li><img src="https://raw.githubusercontent.com/TeknixGit/TeknixGit/main/emojis/chat.gif" width="20" /> &nbsp; Ask me about: <strong>React, REST APIs, Microservices, AWS, CI/CD, Automation</strong>.</li>
-  <li><img src="https://raw.githubusercontent.com/TeknixGit/TeknixGit/main/emojis/mail.gif" width="20" /> &nbsp; Reach me via email: <a href="mailto:asmae.dev@gmail.com">asmae.dev@gmail.com</a></li>
+  <li><img src="https://raw.githubusercontent.com/TeknixGit/TeknixGit/main/emojis/mail.gif" width="20" /> &nbsp; Reach me via email: <a href="mailto:k.asmae@outlook.com">k.asmae@outlook.com</a></li>
   <li><img src="https://raw.githubusercontent.com/TeknixGit/TeknixGit/main/emojis/laugh.gif" width="20" /> &nbsp; Fun fact: I automate workflows I don’t want to repeat twice.</li>
 </ul>
 
